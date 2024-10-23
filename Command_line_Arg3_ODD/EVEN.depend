@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729644135 source:c:\users\admin\desktop\1si23cs105\even\command_line_arg3_odd\main.c
+	<stdio.h>
+	<stdlib.h>
+
